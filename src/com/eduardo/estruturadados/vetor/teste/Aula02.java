@@ -1,3 +1,6 @@
+package com.eduardo.estruturadados.vetor.teste;
+
+import com.eduardo.estruturadados.vetor.Vetor;
 
 public class Aula02 {
 

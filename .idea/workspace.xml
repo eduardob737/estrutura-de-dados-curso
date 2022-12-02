@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d42b85a-d927-46b9-939f-814fe2086c97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estrutura-dados-algoritmos-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/Vetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/Aula03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/Aula02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vetor.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +39,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="App Configuration" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Aula02" />
+      <option name="MAIN_CLASS_NAME" value="com.eduardo.estruturadados.vetor.teste.Aula03" />
       <module name="estrutura-dados-algoritmos-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,9 +78,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Aula02.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/Aula03.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/Aula03.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/Aula03.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
