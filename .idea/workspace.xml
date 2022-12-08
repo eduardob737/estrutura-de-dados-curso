@@ -4,8 +4,7 @@
     <list default="true" id="5d42b85a-d927-46b9-939f-814fe2086c97" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/Vetor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/Aula02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/Aula03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/TesteAula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/TesteAula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/TesteAula.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,16 +110,6 @@
           <properties class="java.lang.IllegalArgumentException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/TesteAula.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/TesteAula.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

@@ -82,6 +82,16 @@ public class Vetor {
         return -1;
     }
 
+    public void remove(int posicao){
+        if (!(posicao >= 0 && posicao < tamanho)){
+            throw new IllegalArgumentException("Posição inválida");
+        }
+        for (int i=posicao; i<tamanho; i++){
+            this.elementos[i] = this.elementos[i+1];
+        }
+        this.tamanho--;
+    }
+
     // Método para listar os elementos do vetor (desconsiderando as posições nulas)
     @Override
     public String toString() {
