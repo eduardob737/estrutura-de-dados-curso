@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d42b85a-d927-46b9-939f-814fe2086c97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/VetorObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/Aula10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/Contato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/Vetor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/TesteAula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/TesteAula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/TesteAula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/eduardo/estruturadados/vetor/teste/Aula09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TesteAula">
+  <component name="RunManager" selected="Application.Aula10">
     <configuration name="App Configuration" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.eduardo.estruturadados.vetor.teste.Aula03" />
       <module name="estrutura-dados-algoritmos-java" />
@@ -48,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteAula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.eduardo.estruturadados.vetor.teste.TesteAula" />
+    <configuration name="Aula04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eduardo.estruturadados.vetor.teste.Aula04" />
       <module name="estrutura-dados-algoritmos-java" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +63,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.eduardo.estruturadados.vetor.teste.Aula04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.eduardo.estruturadados.vetor.teste.Aula04" />
+    <configuration name="Aula09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eduardo.estruturadados.vetor.teste.Aula09" />
+      <module name="estrutura-dados-algoritmos-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eduardo.estruturadados.vetor.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eduardo.estruturadados.vetor.teste.Aula10" />
       <module name="estrutura-dados-algoritmos-java" />
       <extension name="coverage">
         <pattern>
@@ -76,7 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TesteAula" />
+        <item itemvalue="Application.Aula10" />
+        <item itemvalue="Application.Aula09" />
         <item itemvalue="Application.com.eduardo.estruturadados.vetor.teste.Aula04" />
       </list>
     </recent_temporary>

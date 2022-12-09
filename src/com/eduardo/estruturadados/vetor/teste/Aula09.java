@@ -2,7 +2,7 @@ package com.eduardo.estruturadados.vetor.teste;
 
 import com.eduardo.estruturadados.vetor.Vetor;
 
-public class TesteAula {
+public class Aula09 {
 
     public static void main(String[] args) {
 
