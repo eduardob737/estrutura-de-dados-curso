@@ -10,13 +10,12 @@ public class Teste {
         try {
             vetor.adiciona("Elemento 1");
             vetor.adiciona("Elemento 2");
+            vetor.adiciona("Elemento 3");
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
 
-        System.out.println(vetor.getTamanho());
-
-        System.out.println(vetor);
+        System.out.println(vetor.busca(2));
 
     }
 }
