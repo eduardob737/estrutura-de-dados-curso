@@ -15,7 +15,7 @@ public class Teste {
             System.out.println(e.getMessage());
         }
 
-        System.out.println(vetor.busca(2));
+        System.out.println(vetor.busca("Elemento 7"));
 
     }
 }
